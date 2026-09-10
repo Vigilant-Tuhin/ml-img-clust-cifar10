@@ -28,9 +28,9 @@ Pipeline:
 
 ```
 .
-├── 22MT30013_A3.ipynb      # Main notebook: pipeline, results, discussion, conclusion
-├── subset_indices.npy      # Indices defining the 10,000-image CIFAR-10 subset used
-├── requirements.txt        # Python dependencies
+├── ImageClusteringCIFAR10.ipynb      # Main notebook: pipeline, results, discussion, conclusion
+├── subset_indices.npy                # Indices defining the 10,000-image CIFAR-10 subset used
+├── requirements.txt                  # Python dependencies
 └── README.md
 ```
 
@@ -66,4 +66,4 @@ See `requirements.txt` for pinned versions.
 
 ## Author
 
-22MT30013
+Tuhin Manik Biswas
