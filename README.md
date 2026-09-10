@@ -48,7 +48,7 @@ CIFAR-10 itself is **not** stored in this repo — the notebook downloads it aut
 
 ## Usage
 
-Open and run `22MT30013_A3.ipynb` top to bottom (Jupyter or Colab). It will:
+Open and run `ImageClusteringCIFAR10.ipynb` top to bottom (Jupyter or Colab). It will:
 - download CIFAR-10 and load the subset defined by `subset_indices.npy`
 - extract visual and textual features
 - run K-Means/GMM clustering and print Cohen's Kappa for each feature type
